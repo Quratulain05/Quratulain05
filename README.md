@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Quratulain05
+- 👋 Hi, I’m Quratulain
 - 👀 I’m interested in Deep Learning and Computer Vision
 - 🌱 I’m currently learning Image Processing and Computer Vision
 - 📫 How to reach me https://www.linkedin.com/in/qurat-ulain12/
