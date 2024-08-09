@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Quratulain
-- 👀 I’m interested in Deep Learning and Computer Vision
+- 👀 I’m passionate about learing new technologies.
 - 🌱 I’m currently learning Image Processing and Computer Vision
 - 📫 How to reach me https://www.linkedin.com/in/qurat-ulain12/
 - 😄 Pronouns: She/Her
